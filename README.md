@@ -16,8 +16,16 @@
 
 ### 💪 Competitive Programming
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/jssiza)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/js_siza/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/jssiza) <br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/js_siza/) <br>
+
+#### 📈 Live Stats  
+
+**Codeforces Rating:**  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jssiza)
+
+**LeetCode Stats:**  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Jarin_Subah?theme=dark&font=Karma&ext=heatmap)
 
 ### 🌐 Connect with Me  
 
