@@ -25,7 +25,7 @@
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jssiza)
 
 **LeetCode Stats:**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Jarin_Subah?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/js_siza?theme=dark&font=Karma&ext=heatmap)
 
 ### 🌐 Connect with Me  
 
