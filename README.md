@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jarin Subah 👋</h1>
 
-<!--
-**jarinsubahh/jarinsubahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 CSE student at <b>BUET</b> | 💻 Problem Solver | 🎮 Game & Robotics Enthusiast  
+</p>
 
-Here are some ideas to get you started:
+### 🌸 About Me  
+- 🌱 Currently learning **DSA, Arduino, and Robotics**  
+- 💻 Interested in **Game Development & Competitive Programming**  
+- 🎯 Goal: Build creative projects that mix fun & logic  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jarinsubahh&show_icons=true&theme=radical" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarinsubahh&layout=compact&theme=radical" height="165" />
+</p>
+
+### 💪 Competitive Programming
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue)](https://codeforces.com/profile/jssiza)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/js_siza/)
+
+### 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/jarin-subah-97a97a356/)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:jarinsubah249@gmail.com)
