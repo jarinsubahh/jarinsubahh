@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Jarin Subah 👋</h1>
 
 <p align="center">
-🎓 CSE student at <b>BUET</b> | 💻 Problem Solver | 🎮 Game & Robotics Enthusiast  
+🎓 CSE student at <b>BUET</b> | 💻 Problem Solver  
 </p>
 
 ### 🌸 About Me  
-- 🌱 Currently learning **DSA, Arduino, and Robotics**  
-- 💻 Interested in **Game Development & Competitive Programming**  
+- 🌱 Currently learning **DSA, Web development**  
+- 💻 Interested in **Web Development & Competitive Programming**  
 - 🎯 Goal: Build creative projects that mix fun & logic  
 
 <p align="center">
